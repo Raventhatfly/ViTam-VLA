@@ -1,0 +1,3 @@
+[submodule "MovieChat"]
+	path = MovieChat
+	url = https://github.com/wenhaochai/MovieChat.git
